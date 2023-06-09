@@ -1,0 +1,88 @@
+file_name,file_size,region_count,region_id,shape_name,x,y,width,height,Type,Description,Image_Quality
+a28ecaa0140dde95cadbdc33f8ba8f21.jpg,246226,1,0,rect,618,616,299,207,Healthy,{'Healthy_Leaf': True},Good_Illumination
+Anthracnose-on-Mustard-Greens.jpg,105618,1,0,rect,431,298,290,288,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+bac-leaf.jpg,222215,1,0,rect,728,291,222,160,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Bacterial_leaf_spot_symptoms.jpg,132144,2,0,rect,709,338,376,202,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Bacterial_leaf_spot_symptoms.jpg,132144,2,1,rect,1790,279,93,209,Healthy,{'Healthy_Leaf': True},Good_Illumination
+bacterial-leaf-blight-of-lilac-grabowski.jpg,166549,2,0,rect,343,524,59,171,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+bacterial-leaf-blight-of-lilac-grabowski.jpg,166549,2,1,rect,394,84,45,65,Healthy,{'Healthy_Leaf': True},Good_Illumination
+cannabis-leaf-symptoms-Calcium-Deficiency.jpg,122321,1,0,rect,257,299,217,71,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+cercospora-leaf-spot-on-hydrangea-grabowski (1).jpg,67938,1,0,rect,202,219,104,76,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+cercospora-leaf-spot-on-hydrangea-grabowski.jpg,67938,1,0,rect,192,230,127,78,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+chto-delat-esli-zabolela-rassada-kannabisa-1.jpg,125016,2,0,rect,582,349,100,92,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+chto-delat-esli-zabolela-rassada-kannabisa-1.jpg,125016,2,1,rect,202,78,69,58,Healthy,{'Healthy_Leaf': True},Good_Illumination
+crab-apple-fruit-tree-rust-d0c0b053-01cd80cdad534ca18eb4c9e0a9a0b247.jpg,195825,1,0,rect,621,538,183,199,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+downy-mildew-on-rose-2-grabowski.jpg,155636,1,0,rect,321,438,108,75,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+downy-mildew-on-viburnum-2-grabowski.jpg,80275,1,0,rect,150,105,109,102,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+downy-mildew-on-viburnum-grabowski.jpg,127713,2,0,rect,425,109,54,71,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+downy-mildew-on-viburnum-grabowski.jpg,127713,2,1,rect,540,283,51,55,Healthy,{'Healthy_Leaf': True},Good_Illumination
+dutch+elm+disease.jpg,1020729,1,0,rect,548,376,302,327,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+fd1a1c919a1103d5fef4cb0ecf60bb54.jpg,243772,1,0,rect,426,489,255,218,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+fungal-leaf-spot.jpg,84434,1,0,rect,321,123,184,188,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees154.jpg,29033,1,0,rect,216,178,156,145,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees156.jpg,67372,1,0,rect,271,425,150,134,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees564.jpg,68187,1,0,rect,430,238,75,55,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees565.jpg,42787,1,0,rect,652,164,64,119,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees599.jpg,41286,2,0,rect,330,264,136,117,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees599.jpg,41286,2,1,rect,524,360,76,95,Healthy,{'Healthy_Leaf': True},Good_Illumination
+Leaf_Spot_of_Trees644.jpg,43676,2,0,rect,121,220,71,88,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees644.jpg,43676,2,1,rect,655,320,65,81,Healthy,{'Healthy_Leaf': True},Good_Illumination
+Leaf_Spot_of_Trees645.jpg,54659,1,0,rect,272,349,72,64,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees646.jpg,31734,2,0,rect,560,405,66,138,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Blurred
+Leaf_Spot_of_Trees646.jpg,31734,2,1,rect,309,94,125,84,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees647.jpg,38023,2,0,rect,107,239,124,61,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees647.jpg,38023,2,1,rect,154,90,98,74,Healthy,{'Healthy_Leaf': True},Good_Illumination
+Leaf_Spot_of_Trees669.jpg,25253,1,0,rect,501,199,198,201,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees670.jpg,29640,1,0,rect,309,369,163,145,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees1345.jpg,34948,1,0,rect,435,253,132,147,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees1379.jpg,59785,1,0,rect,512,120,83,88,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees1380.jpg,51081,1,0,rect,213,389,100,67,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees1381.jpg,73324,2,0,rect,285,278,158,105,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees1381.jpg,73324,2,1,rect,97,243,179,127,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees1606.jpg,63061,2,0,rect,91,289,88,50,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees1606.jpg,63061,2,1,rect,289,214,42,76,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees1607.jpg,56968,1,0,rect,99,274,72,92,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees1608.jpg,44860,1,0,rect,170,121,112,198,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees1609.jpg,53153,1,0,rect,215,239,137,129,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees1952.jpg,49419,1,0,rect,267,210,140,109,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees2036.jpg,46244,2,0,rect,208,427,135,149,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Leaf_Spot_of_Trees2036.jpg,46244,2,1,rect,223,97,120,96,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+leaf-4339680_1280.jpg,315310,1,0,rect,483,199,116,100,Healthy,{'Healthy_Leaf': True},Good_Illumination
+leaf-blotch-buckeye-guignardia-aesculi-grabowski.jpg,111448,2,0,rect,284,196,103,93,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+leaf-blotch-buckeye-guignardia-aesculi-grabowski.jpg,111448,2,1,rect,304,38,93,40,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+linden-leaf-blotch-grabowski.jpg,100117,1,0,rect,357,175,177,128,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+mycosphaerella-leaf-spot-on-currant-grabowski.jpg,81685,1,0,rect,272,281,98,157,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Normal567.jpg,49125,1,0,rect,505,193,139,216,Healthy,{'Healthy_Leaf': True},Good_Illumination
+photinia-black-spot.jpg,100644,1,0,rect,345,560,90,216,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+phyllosticta-leaf-spot-on-maple-grabowski.jpg,97150,1,0,rect,117,201,69,75,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+stemphylium-leaf-spot.jpg,271675,1,0,rect,283,153,245,312,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+taphrina-leaf-blister-oak-grabowski.jpg,91827,3,0,rect,101,153,89,103,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+taphrina-leaf-blister-oak-grabowski.jpg,91827,3,1,rect,115,51,64,58,Healthy,{'Healthy_Leaf': True},Good_Illumination
+taphrina-leaf-blister-oak-grabowski.jpg,91827,3,2,rect,272,251,49,94,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+taphrina-leaf-blister-on-cherry-grabowski.jpg,100163,3,0,rect,56,161,135,62,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+taphrina-leaf-blister-on-cherry-grabowski.jpg,100163,3,1,rect,137,38,79,70,Healthy,{'Healthy_Leaf': True},Good_Illumination
+taphrina-leaf-blister-on-cherry-grabowski.jpg,100163,3,2,rect,384,225,91,80,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+tar-spot-on-maple-grabowski.jpg,135344,2,0,rect,265,299,69,75,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+tar-spot-on-maple-grabowski.jpg,135344,2,1,rect,375,161,75,67,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+treating-brown-spots-on-leaves-5076039-01-b05c9ed7a44648adbee4c7d4bc2b2bab.jpg,418561,1,0,rect,3306,2108,770,982,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Wheat-leaf-spot-4-22-16-F4.jpg,679638,2,0,rect,717,340,60,234,Unhealthy,"{'Leaf spots (other names: anthracnose, scab, leaf blotch, shot hole) are usually rather definite spots of varying sizes, shapes and colors': True}",Good_Illumination
+Wheat-leaf-spot-4-22-16-F4.jpg,679638,2,1,rect,193,300,103,278,Healthy,{'Healthy_Leaf': True},Good_Illumination
+wp2466958.jpg,1610813,2,0,rect,687,799,646,545,Healthy,{'Healthy_Leaf': True},Good_Illumination
+wp2466958.jpg,1610813,2,1,rect,1752,321,724,684,Healthy,{'Healthy_Leaf': True},Blurred
+pexels-math-21392.jpg,3620205,2,0,rect,1294,688,427,510,Healthy,{'Healthy_Leaf': True},Good_Illumination
+pexels-math-21392.jpg,3620205,2,1,rect,2335,1843,649,479,Healthy,{'Healthy_Leaf': True},Good_Illumination
+pexels-johannes-plenio-1632780.jpg,8759251,1,0,rect,2533,1977,374,593,Healthy,{'Healthy_Leaf': True},Good_Illumination
+pexels-dids-2272515.jpg,2172587,2,0,rect,1433,1575,271,633,Healthy,{'Healthy_Leaf': True},Good_Illumination
+pexels-dids-2272515.jpg,2172587,2,1,rect,1088,2638,301,474,Healthy,{'Healthy_Leaf': True},Good_Illumination
+pexels-mwabonje-1146385.jpg,598211,2,0,rect,1086,2133,277,316,Healthy,{'Healthy_Leaf': True},Good_Illumination
+pexels-mwabonje-1146385.jpg,598211,2,1,rect,1363,922,268,372,Healthy,{'Healthy_Leaf': True},Good_Illumination
+pexels-kelly-2453551.jpg,4142924,2,0,rect,1655,2590,472,449,Healthy,{'Healthy_Leaf': True},Good_Illumination
+pexels-kelly-2453551.jpg,4142924,2,1,rect,2434,1898,784,348,Healthy,{'Healthy_Leaf': True},Good_Illumination
+evie-fjord-cyMxUprjZOA-unsplash.jpg,691138,1,0,rect,731,808,446,485,Healthy,{'Healthy_Leaf': True},Good_Illumination
+malte-michels-s4wGZw3UuLk-unsplash.jpg,1804084,1,0,rect,2639,2030,508,700,Healthy,{'Healthy_Leaf': True},Good_Illumination
+teemu-paananen-OOE4xAnBhKo-unsplash.jpg,2638167,1,0,rect,1056,2814,666,636,Healthy,{'Healthy_Leaf': True},Good_Illumination
+ren-ran-bBiuSdck8tU-unsplash.jpg,3620956,2,0,rect,512,2895,1140,680,Healthy,{'Healthy_Leaf': True},Good_Illumination
+ren-ran-bBiuSdck8tU-unsplash.jpg,3620956,2,1,rect,3144,2376,366,768,Healthy,{'Healthy_Leaf': True},Good_Illumination
+61sWhGZ5waL.jpg,73666,1,0,rect,575,375,268,216,Healthy,{'Healthy_Leaf': True},Good_Illumination
+pexels-pixabay-235767.jpg,6808545,2,0,rect,2431,1170,636,727,Healthy,{'Healthy_Leaf': True},Good_Illumination
+pexels-pixabay-235767.jpg,6808545,2,1,rect,3516,374,2105,1827,Healthy,{'Healthy_Leaf': True},Good_Illumination
